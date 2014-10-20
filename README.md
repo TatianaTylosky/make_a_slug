@@ -1,3 +1,5 @@
+MAKE STRINGS INTO SLUG STRINGS
+
 This is a python I created that will take any string and make it slug appropriate.
 
   Slugs have '-' instead of spaces and are entirely lower case.
